@@ -1,42 +1,45 @@
 # VOS — Virtual Omni Operating System
 
-Merhabalar! 👋
+Hello! 👋
 
-**VOS (Virtual Omni Operating System)**, Python programlama dili kullanılarak geliştirilmiş, tamamen **hobi amaçlı bir sanal işletim sistemi simülasyonudur**.
+**VOS (Virtual Omni Operating System)** is a hobby project written in **Python** that simulates a virtual operating system environment.
 
-Gerçek bir işletim sistemi değildir; işletim sistemi yapısını ve çalışma mantığını simüle etmek amacıyla geliştirilmiştir.
+VOS is **not a real operating system**. It is designed for learning, experimentation, and exploring basic operating system concepts and architecture.
 
-## 🚀 Başlatma
+## 🚀 Getting Started
 
-VOS'u çalıştırmak için `Kernel.py` dosyasını çalıştırmanız yeterlidir:
+To run VOS, simply execute the `Kernel.py` file:
 
 ```bash
 python Kernel.py
 ```
 
-## 🧠 Proje Hakkında
+## 🧠 About the Project
 
-Projenin temel amacı Python kullanarak sanal bir işletim sistemi ortamı oluşturmak ve işletim sistemi konseptlerini deneysel olarak uygulamaktır.
+The main goal of VOS is to create a virtual operating system environment using Python and experiment with concepts commonly found in operating systems.
 
-> ⚠️ VOS bir gerçek işletim sistemi değil, eğitim ve hobi amaçlı geliştirilmiş bir simülasyondur.
+The project is developed as a personal hobby project and may evolve over time with new features and improvements.
 
-## 🛠️ Kullanılan Teknoloji
+> ⚠️ VOS is a simulation, not a real operating system. It is intended for educational and experimental purposes.
+
+## 🛠️ Technologies
 
 * **Python**
-* Sanal işletim sistemi mimarisi
-* Kernel tabanlı çalışma yapısı
+* Virtual operating system simulation
+* Kernel-based architecture
 
-## 📁 Başlangıç
+## 📁 Entry Point
 
-Programın giriş noktası:
+The main entry point of VOS is:
 
 ```text
 Kernel.py
 ```
 
-Kernel üzerinden VOS'un çalışma süreci başlatılır.
+The `Kernel.py` file starts the VOS environment and initializes the system.
 
 ---
 
 **VOS — Virtual Omni Operating System**
-*Built for learning, experimentation and fun.* 🚀
+
+*Built for learning, experimentation, and fun.* 🚀
